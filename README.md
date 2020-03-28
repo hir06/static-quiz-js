@@ -12,5 +12,3 @@ Features included
 8. progress bar
 9. validation rule on empty selection.
 
-Future scope
-1. with time constraint couldn't include the test cases
